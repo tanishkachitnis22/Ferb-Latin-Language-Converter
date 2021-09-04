@@ -29,7 +29,7 @@ function clickHandler() {
         .catch(errorHandler)
 };
 
-button.addEventListener("click", clickHandler);
+button.addEventListener("click", clickHandler)
 
 
 
