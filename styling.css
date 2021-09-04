@@ -72,6 +72,16 @@ body{
     }
     
 
-
+    .footer {
+        color: white;
+        font-size: medium;
+        position:relative;
+        margin-top: 20px;
+        bottom: 0;
+        width: 100%;
+        padding: 1rem;
+        background-color: #17a2b8;
+        text-align: center;
+    }
 
 
