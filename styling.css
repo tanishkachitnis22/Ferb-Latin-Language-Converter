@@ -2,7 +2,7 @@
 .heading{
     background-color:#17a2b8;
     color:white;
-    padding: 2rem;
+    padding: 1.5rem;
     text-align: center;
 }
 
@@ -10,12 +10,35 @@ body{
     font-size: xx-large;
     margin: 0px;
 }
+ 
+
 .rounded-circle{ 
-    text-align:center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
     max-width: 350px;
     border: 4px solid #333;
-    box-shadow: 8px 3px 6px #888;
     border-radius: 50%!important;
+    width: 100%;
     height: auto;
+    position: relative;
+    top: 20px;
 }
-
+.Converter{
+    width: 60%;
+    border: 2px solid black;
+    position: relative;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    resize: none;
+}
+font-size: larger{
+    margin-top: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
